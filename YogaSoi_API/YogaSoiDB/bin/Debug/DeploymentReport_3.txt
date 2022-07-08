@@ -1,0 +1,25 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       [dbo].[PK_User] sur [dbo].[User]
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       La colonne [dbo].[User].[Inscrit] est en cours de suppression, des données risquent d'être perdues.
+
+** Actions de l'utilisateur
+     Renommer
+       [dbo].[User].[RoleId] (Colonne)
+     Supprimer
+       [dbo].[FK_User__Role] (Clé étrangère)
+       [dbo].[PK_User] (Clé primaire)
+     Modifier
+       [dbo].[User] (Table)
+     Créer
+       [dbo].[FK_User__RoleId] (Clé étrangère)
+
+** Actions de support
+
+La colonne [dbo].[User].[Inscrit] est en cours de suppression, des données risquent d'être perdues.
+

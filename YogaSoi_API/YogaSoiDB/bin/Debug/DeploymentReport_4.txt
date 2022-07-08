@@ -1,0 +1,22 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Adress] (Table)
+       [dbo].[InscriptionLesson] (Table)
+       [dbo].[Lesson] (Table)
+       [dbo].[Member] (Table)
+       [dbo].[FK_InscriptionLesson__MemberId] (Clé étrangère)
+       [dbo].[FK_InscriptionLesson__LessonId] (Clé étrangère)
+       [dbo].[FK_Lesson__AdressId] (Clé étrangère)
+       [dbo].[FK_Member__RoleId] (Clé étrangère)
+
+** Actions de support

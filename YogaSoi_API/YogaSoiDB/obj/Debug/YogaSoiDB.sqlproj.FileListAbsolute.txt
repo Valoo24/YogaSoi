@@ -1,0 +1,10 @@
+C:\Users\Benji\Desktop\Repos YogaSoi\YogaSoi_API\YogaSoiDB\bin\Debug\YogaSoiDB.dacpac
+C:\Users\Benji\Desktop\Repos YogaSoi\YogaSoi_API\YogaSoiDB\bin\Debug\YogaSoiDB.dll
+C:\Users\Benji\Desktop\Repos YogaSoi\YogaSoi_API\YogaSoiDB\bin\Debug\YogaSoiDB.pdb
+C:\Users\Benji\Desktop\Repos YogaSoi\YogaSoi_API\YogaSoiDB\obj\Debug\YogaSoiDB.sqlproj.AssemblyReference.cache
+C:\Users\Benji\Desktop\Repos YogaSoi\YogaSoi_API\YogaSoiDB\obj\Debug\YogaSoiDB.dll
+C:\Users\Benji\Desktop\Repos YogaSoi\YogaSoi_API\YogaSoiDB\obj\Debug\YogaSoiDB.pdb
+C:\Users\Benji\Desktop\Repos YogaSoi\YogaSoi_API\YogaSoiDB\obj\Debug\Model.xml
+C:\Users\Benji\Desktop\Repos YogaSoi\YogaSoi_API\YogaSoiDB\obj\Debug\refactor.xml
+C:\Users\Benji\Desktop\Repos YogaSoi\YogaSoi_API\YogaSoiDB\obj\Debug\postdeploy.sql
+C:\Users\Benji\Desktop\Repos YogaSoi\YogaSoi_API\YogaSoiDB\obj\Debug\predeploy.sql
